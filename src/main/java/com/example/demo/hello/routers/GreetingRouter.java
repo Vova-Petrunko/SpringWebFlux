@@ -1,5 +1,6 @@
-package com.example.demo.hello;
+package com.example.demo.hello.routers;
 
+import com.example.demo.hello.handlers.GreetingHandler;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.http.MediaType;
